@@ -35,3 +35,7 @@ SELECT * FROM courses
 WHERE courses.semester='F15';
 SELECT * FROM quiz_course_close_assoc 
 WHERE courseid='3';
+
+/*Question 11*/
+SELECT spec_type FROM variable_specifications 
+ORDER BY spec_type;

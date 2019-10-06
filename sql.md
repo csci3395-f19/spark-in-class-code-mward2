@@ -32,7 +32,7 @@ lambda_assoc and lambda_questions both have the smallest number of entries with 
 
 
 ## 11. What are the three most common spec_types for variables in the problems?
-
+The three most common spec_types for variables in the problems are 0, 2, and 3.
 
 ## 12. What fraction of quizzes have coding questions?
 
