@@ -14,7 +14,7 @@ lambda_assoc and lambda_questions both have the smallest number of entries with 
 108 answers have been posted for multiple choice questions.
 
 ## 5. How many quizzes were given to section 6 of CSCI 1320 in Fall 2015?
-
+22 quizes were given to section 6 of CSCI 1320 in Fall 2015.
 
 ## 6. Which course has the most quizzes? How many quizzes does it have?
 

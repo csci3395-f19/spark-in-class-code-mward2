@@ -31,5 +31,7 @@ SELECT COUNT(correct_option) FROM multiple_choice_questions
 WHERE correct_option IS NOT NULL;
 
 /*Question 5*/
-/*SELECT * FROM courses, quiz_course_close_assoc
-WHERE courses.courseid=quiz_course_close_assoc.courseid;*/
+SELECT * FROM courses 
+WHERE courses.semester='F15';
+SELECT * FROM quiz_course_close_assoc 
+WHERE courseid='3';
